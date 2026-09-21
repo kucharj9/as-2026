@@ -12,3 +12,4 @@ za celý školní rok. Odevzdává se commitem, ne mailem.
 ## Kdo
 
 Kód žáka: 9 · třída IT2
+Založeno 21. 9. 2026
