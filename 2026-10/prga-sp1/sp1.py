@@ -1,6 +1,6 @@
 # kód žáka: 9
 # datum: 12.10.
-#
+# Vypíše pohyb kuličky a tabulku mocnin a odmocnin
 
 import time
 import math
